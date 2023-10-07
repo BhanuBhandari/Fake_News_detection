@@ -234,33 +234,3 @@ Distributed under the [MIT License](LICENSE). See LICENSE for more information.
 
 [(Back to Top)](#table-of-contents)
 
-Thanks goes to these wonderful people 👏👏
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/heet9022"><img src="https://avatars0.githubusercontent.com/u/41733742?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Heet Sakaria</b></sub></a><br /><a href="https://github.com/hritik5102/Fake-news-classification-model/commits?author=heet9022" title="Code">💻</a> <a href="https://github.com/hritik5102/Fake-news-classification-model/commits?author=heet9022" title="Ideas, Planning, & Feedback">🤔</a><a href="https://github.com/hritik5102/Fake-news-classification-model/commits?author=heet9022" title="Documentation">📖</a><a href="https://github.com/hritik5102/Fake-news-classification-model/commits?author=heet9022" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/vedangparasnis"><img src="https://avatars2.githubusercontent.com/u/35874709?v=4?s=100" width="100px;" alt=""/><br /><sub><b>vedangparasnis</b></sub></a><br /><a href="https://github.com/hritik5102/Fake-news-classification-model/commits?author=vedangparasnis" title="Code">💻</a><a href="https://github.com/hritik5102/Fake-news-classification-model/commits?author=vedangparasnis" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/veedata"><img src="https://avatars.githubusercontent.com/u/43007623?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Viraj Thakkar</b></sub></a><br /><a href="https://github.com/hritik5102/Fake-news-classification-model/commits?author=veedata" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-```bash
- _____ _                 _     __   __            
-|_   _| |               | |    \ \ / /            
-  | | | |__   __ _ _ __ | | __  \ V /___  _   _   
-  | | | '_ \ / _` | '_ \| |/ /   \ // _ \| | | |  
-  | | | | | | (_| | | | |   <    | | (_) | |_| |  
-  \_/ |_| |_|\__,_|_| |_|_|\_\   \_/\___/ \__,_| 
-```
-</p>
-
-[(Back to Top)](#table-of-contents)
-
